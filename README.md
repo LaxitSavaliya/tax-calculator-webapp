@@ -50,7 +50,7 @@ tax-calculator/
 
 ### 1. Clone or Download
 
-git clone https://github.com/your-username/tax-calculator.git
+git clone https://github.com/LaxitSavaliya/tax-calculator-webapp
 
 
 ### 2. Open Project
